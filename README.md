@@ -8,10 +8,10 @@
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
   <img align="center" alt="Lucas-TF" height="30" width="40" src="https://img.icons8.com/color/480/tensorflow.png">
-  <img align="center" alt="Lucas-Scikit-Learn" height="30" width="40" src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer-thumbnail.png">
+  <img align="center" alt="Lucas-Scikit-Learn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
   <img align="center" alt="Lucas-Spark" height="30" width="40" src="https://user-images.githubusercontent.com/88405116/179554839-907799db-bc29-4983-b2c8-f0efb49e4049.png">
-  <img align="center" alt="Lucas-Qlik" height="30" width="40" src="https://img2.gratispng.com/20180425/xeq/kisspng-qlik-business-intelligence-software-dashboard-logo-5ae077243192b0.0334082715246600042031.jpg">
-    <img align="center" alt="Lucas-Qlik" height="30" width="40" src="https://e7.pngegg.com/pngimages/820/213/png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates-thumbnail.png">
+  <img align="center" alt="Lucas-Qlik" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/qlik-1.svg">
+    <img align="center" alt="Lucas-PWBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
     <img align="center" alt="Lucas-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
