@@ -1,5 +1,5 @@
 ## Lucas Sousa Martins
-Hi! I am a Bachelor of Economic Sciences from the Federal University of Paraíba. I have 3 years of data manipulation experience, of which 1 year and 1 month is professional and 1 year and 11 months is academic. Over the years I came across numerous data sources, from various areas of knowledge and various tools. Elaboration Exploratory Data Analysis, Econometric Models, Machine Learning Models.
+Hi! I am a Bachelor of Economic Sciences by the Federal University of Paraíba (UFPB) and Data scientist student by USP/Esalq. I have 3 years of data manipulation experience, of which 1 year and 1 month is professional and 1 year and 11 months is academic. Over the years I came across numerous data sources, from various areas of knowledge and various tools. Elaboration Exploratory Data Analysis, Econometric Models, Machine Learning Models.
 
 <div align="center">
   <a href="https://github.com/Lucas0usa">
