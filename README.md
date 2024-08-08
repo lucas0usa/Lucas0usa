@@ -1,5 +1,7 @@
 ## Lucas Sousa Martins
-Hi! I am a Bachelor in Economic Sciences from the Federal University of Paraíba. I have 3 years and 9 months of data manipulation/handling experience, of which 1 year and 3 months is professional and 2 year and 6 months is academic. Over the years I came across numerous data sources, from various areas of knowledge and various tools, I Elaborated Exploratory Data Analysis, Econometric Models, Machine Learning Models, ETL, BI Dashboards, and others.
+Economista pela Universidade Federal da Paraíba e em vias de concluir minha especialização em Ciência de Dados e Analytics na USP/ESALQ, trago mais de 4 anos de experiência em manipulação e análise de dados. 
+Ao longo de minha carreira, enfrentei desafios diversos, desde conduzir análises exploratórias até desenvolver modelos econométricos e de machine learning. Tenho proficiência em linguagens como Python, R e SQL, que utilizei para criar ETLs robustos com ferramentas como Spark, Airflow, MongoDb e MinIO, construir painéis interativos em Qlik Sense e Power BI, e implementar soluções analíticas inovadoras através de ferramentas como o MlFlow e relatórios automatizados em Nprinting. 
+Minha paixão por resolver problemas por meio da análise de dados me impulsiona a buscar continuamente maneiras de otimizar estratégias e impulsionar o sucesso dos projetos.
 
 
 <div style="display: inline_block"><br>
