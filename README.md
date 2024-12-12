@@ -13,6 +13,7 @@ Minha paixão por resolver problemas por meio da análise de dados me impulsiona
   <img align="center" alt="Lucas-Qlik" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/qlik-1.svg">
     <img align="center" alt="Lucas-PWBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
     <img align="center" alt="Lucas-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="Lucas-langflow" height="30" width="40" src="https://docs.langflow.org/img/langflow-icon-black-transparent.svg">
 </div>
 
 
