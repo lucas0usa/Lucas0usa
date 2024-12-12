@@ -1,6 +1,6 @@
 ## Lucas Sousa Martins
-Economista pela Universidade Federal da Paraíba e em vias de concluir minha especialização em Ciência de Dados e Analytics na USP/ESALQ, trago mais de 4 anos de experiência em manipulação e análise de dados. 
-Ao longo de minha carreira, enfrentei desafios diversos, desde conduzir análises exploratórias até desenvolver modelos econométricos e de machine learning. Tenho proficiência em linguagens como Python, R e SQL, que utilizei para criar ETLs robustos com ferramentas como Spark, Airflow, MongoDb e MinIO, construir painéis interativos em Qlik Sense e Power BI, e implementar soluções analíticas inovadoras através de ferramentas como o MlFlow e relatórios automatizados em Nprinting. 
+Economista pela Universidade Federal da Paraíba [UFPB] e Cientista de Dados pela Universidade de São Paulo [USP/ESALQ], possuo experiência em economia, manuseio de dados, análise de dados, big data. 
+Ao longo de minha jornada, enfrentei desafios diversos, desde conduzir análises exploratórias até desenvolver modelos econométricos e de machine learning. Tenho proficiência em linguagens como Python, R e SQL, que utilizei para criar ETLs robustos com ferramentas como Spark, Airflow, MongoDb e MinIO, construir painéis interativos em Qlik Sense e Power BI, e implementar soluções analíticas inovadoras através de ferramentas como o MlFlow e relatórios automatizados em Nprinting. 
 Minha paixão por resolver problemas por meio da análise de dados me impulsiona a buscar continuamente maneiras de otimizar estratégias e impulsionar o sucesso dos projetos.
 
 
